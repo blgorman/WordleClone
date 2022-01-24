@@ -10,4 +10,4 @@ Open and play.  Words are read from file.
 
 ## Info
 
-Words are truncated from a list found [https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt](here).
+Words are truncated from a list found [here](https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt).
